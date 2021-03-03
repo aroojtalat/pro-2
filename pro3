@@ -1,0 +1,13 @@
+#!/bin/bash
+df -h
+sleep 5
+whoami
+sleep 5
+uptime
+sleep 5
+df -h
+sleep 5
+lsblk
+sleep 5
+ip a
+sleep 5
