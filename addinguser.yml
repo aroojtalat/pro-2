@@ -1,0 +1,9 @@
+---
+- name: adding a user test
+  hosts: all
+  tasks:
+   - name: adding addind a user Samar
+     user:
+      name: Samar
+      state: present 
+
